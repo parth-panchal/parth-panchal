@@ -1,6 +1,8 @@
 ### Hi, I'm Parth! 👋
 
+*I'm an upcoming computer science engineering graduate, trying to learn something new everyday.*
 
+I am currently increasing my skillset in the field of Data Science and full-stack development, along with contributing to open-source projects as much as I can.
 
 <!--
 **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
