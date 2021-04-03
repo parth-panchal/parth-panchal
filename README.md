@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 -->
 
 ![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-panchal&layout=compact&theme=tokyonight)
