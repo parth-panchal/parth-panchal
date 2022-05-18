@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Parth's github stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight)
