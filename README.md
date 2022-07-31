@@ -1,6 +1,6 @@
 ### Hi, I'm Parth! 👋
 
-*I'm an upcoming computer science engineering graduate, trying to learn something new everyday.*
+*I'm a computer science and engineering graduate, trying to learn something new everyday.*
 
 I am currently increasing my skillset in the field of Data Science and full-stack development, along with contributing to open-source projects as much as I can. I am also exploring and learning more about REST APIs.
 
