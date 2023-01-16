@@ -2,7 +2,7 @@
 
 *I'm a computer science and engineering graduate, trying to learn something new everyday.*
 
-I am currently increasing my skillset in the field of Data Science and full-stack development, along with contributing to open-source projects as much as I can. I am also exploring and learning more about REST APIs.
+I am currently increasing my skillset in the field of full-stack development, along with contributing to open-source projects as much as I can. I am also exploring and learning more about REST APIs.
 
 <!--
 **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
