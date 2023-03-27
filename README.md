@@ -4,7 +4,7 @@
 
 I am currently increasing my skillset in the field of full-stack development, along with contributing to open-source projects as much as I can. I am also exploring and learning more about REST APIs.
 
-[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal)](https://github.com/parth-panchal/github-readme-stats)
+[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true)](https://github.com/parth-panchal/github-readme-stats)
 
 <!--
 **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
