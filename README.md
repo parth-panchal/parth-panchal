@@ -6,7 +6,7 @@ I am currently increasing my skillset in the field of full-stack development, al
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-panchal&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-panchal&layout=compact&hide=jupyternotebook)
 <!--
 **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
