@@ -1,22 +1,20 @@
-<!--
-**parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some ideas to get you started: -->
 
 ### Hi, I'm Parth! 👋
 
-*I'm a computer science and engineering graduate, trying to learn something new everyday.*
+*I'm a computer science graduate student, trying to learn something new everyday.*
 
-I am currently increasing my skillset in the field of full-stack development, along with contributing to open-source projects as much as I can. I am also exploring and learning more about REST APIs.
+- 🔭 I’m currently working on [cineLog](github.com/parth-panchal/cineLog) which happens to also be a pet project of mine. I consider myself fortunate that I am getting to do this as my final project for 546 here at Stevens.
+- 🌱 I’m currently learning Node.js, Express, MongoDB, all the good stuff!
+- 👯 I’m looking to collaborate on anything which appeals to my analytical acumen.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me anything about all things tech, especially recommendations. Consumer electronics reasearch is a guilty pleasure of mine.
+- 📫 How to reach me: ppanchal1@stevens.edu
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](instagram.com/parthhpanchal). Sometimes I post good photos, you’ll have to be patient.
+
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
