@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me anything about all things tech, especially recommendations. Consumer electronics reasearch is a guilty pleasure of mine.
 - 📫 How to reach me: ppanchal1@stevens.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](instagram.com/parthhpanchal). Sometimes I post good photos, you’ll have to be patient.
+- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal]([instagram.com/parthhpanchal](https://www.instagram.com/parthhpanchal/)). Sometimes I post good photos, you’ll have to be patient.
 
 
 ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
