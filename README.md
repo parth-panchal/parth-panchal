@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 *I'm a computer science graduate student, trying to learn something new everyday.*
 
-- 🔭 I’m currently working on [cineLog](github.com/parth-panchal/cineLog) which happens to also be a pet project of mine. I consider myself fortunate that I am getting to do this as my final project for 546 here at Stevens.
+- 🔭 I’m currently working on [cineLog](github.com/parth-panchal/cineLog), which also happens to be a pet project of mine. I consider myself fortunate that I am getting to do this as my final project for 546 here at Stevens.
 - 🌱 I’m currently learning Node.js, Express, MongoDB, all the good stuff!
 - 👯 I’m looking to collaborate on anything which appeals to my analytical acumen.
 - 🤔 I’m looking for help with ...
