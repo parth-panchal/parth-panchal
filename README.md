@@ -15,4 +15,4 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](https://www.instagram.com/parthhpanchal/). Sometimes I post good photos, you’ll have to be patient.
 
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
+![Parth's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
