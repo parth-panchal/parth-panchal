@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on anything which appeals to my analytical acumen. <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me anything about all things tech, especially product recommendations. Tech gadgets are a guilty pleasure of mine.
 - 📫 How to reach me: ppanchal1@stevens.edu <!-- - 😄 Pronouns: he/him/his -->
-- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](https://www.instagram.com/parthhpanchal/) (Sometimes I post good photos, you’ll have to be patient).
+- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](https://www.instagram.com/parthhpanchal/).
 
 
 ![Parth's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
