@@ -5,7 +5,7 @@ Here are some ideas to get you started: -->
 
 ### Hi, I'm Parth! 👋
 
-*I'm a computer science graduate student, trying to learn something new everyday.*
+*I'm a DevOps Engineer and Computer Science Graduate student, trying to learn something new everyday.*
 
 - 🔭 I finished working on [cineLog](https://github.com/parth-panchal/cineLog), which was my final project for CS546 at Stevens.
 - 🌱 I’m currently interning at [Zelle](https://www.zellepay.com/) [(Early Warning Services)](https://www.earlywarning.com/) as a DevOps/Software Engineer with my work focused mainly on IaC automation using Ansible.
