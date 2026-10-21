@@ -1,17 +1,25 @@
+# Parth Panchal
 
-<!-- **parth-panchal/parth-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+whoami:
+  role: Technology Cyber & Security Analyst @ Barclays
+  previously: DevOps / Software Engineer Intern @ Zelle (Early Warning Services)
+  education: M.S. Computer Science, Stevens Institute of Technology
+```
 
-Here are some ideas to get you started: -->
+### 🧰 Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Hi, I'm Parth! 👋
-
-*A Computer Science Graduate student, trying to learn something new everyday!*
-
-- 🌱 I recently finished interning at [Zelle](https://www.zellepay.com/) [(Early Warning Services)](https://www.earlywarning.com/) as a DevOps/Software Engineer with my work focused mainly on IaC automation using [Ansible](https://www.ansible.com/).<!-- - 🔭 I finished working on [cineLog](https://github.com/parth-panchal/cineLog), which was my final project for CS546 at Stevens. -->
-- 👯 I’m looking to collaborate on anything which appeals to my analytical acumen. <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me anything about all things tech, especially product recommendations. Tech gadgets are a guilty pleasure of mine.
-- 📫 How to reach me: ppanchal1@stevens.edu <!-- - 😄 Pronouns: he/him/his -->
-- ⚡ Fun fact: I love photography. I've put up most of my work on instagram at [@parthhpanchal](https://www.instagram.com/parthhpanchal/).
-
-
+### 📊 GitHub
 ![Parth's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=parth-panchal&count_private=true&show_icons=true)
+![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parth-panchal&layout=compact)
+
+### 📫 Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE/)
