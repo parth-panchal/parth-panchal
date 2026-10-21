@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Parth+%F0%9F%91%8B;Cyber+%26+Security+%40+Barclays;M.S.+Computer+Science+%40+Stevens;Automating+the+boring+stuff;Learning+something+new+every+day" alt="Typing intro" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=parth-panchal&color=36BCF7&style=flat-square&label=profile+views" alt="Profile views" />
-</p>
-
 </div>
 
 ---
